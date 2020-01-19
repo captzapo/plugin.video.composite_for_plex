@@ -12,7 +12,7 @@
         <medialibraryscanpath content="movies">library/movies/</medialibraryscanpath>
         <medialibraryscanpath content="tvshows">library/tvshows/</medialibraryscanpath>
     </extension>
-    <extension point="xbmc.service" library="resources/lib/service_entry_point.py" start="login"/>
+    <extension point="xbmc.service" library="resources/lib/service_entry_point.py"/>
     <extension point="xbmc.addon.metadata">
         <news>
 [add] added intro skipping (Requires Plex Pass)

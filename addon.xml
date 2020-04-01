@@ -25,8 +25,8 @@
 [chg] All Movies, All Shows, All Artists, and All Photos are no longer shortened to All
         </news>
         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <icon>resources/media/icon.png</icon>
+            <fanart>resources/media/fanart.png</fanart>
         </assets>
         <platform>all</platform>
         <license>GPL-2.0-or-later</license>
